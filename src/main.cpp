@@ -18,8 +18,8 @@ int main(){
     {
        case 1: MenuNelayan();
        case 2: MenuPetugasTPI();
-       case 3: MenuTengkulak();
-       case 4: MenuOrangPasar();
+      //  case 3: MenuTengkulak();
+      //  case 4: MenuOrangPasar();
        default: cout<<"Inputan tidak valid!!";
     }
 

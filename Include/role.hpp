@@ -2,9 +2,9 @@
 #define ROLE_HPP
 
 void MenuNelayan();
-void MenuTengkulak();
+// void MenuTengkulak();
 void MenuPetugasTPI();
-void MenuOrangPasar();
+// void MenuOrangPasar();
 void LihatPermintaan();
 
 #endif
